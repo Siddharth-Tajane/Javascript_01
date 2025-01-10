@@ -1,4 +1,4 @@
-"use strict";  //use all js code as newer version    and not need to use it is automatically executed
+"use strict";  //used by all js codes as newer version and not need to use it is automatically executed
 
 //  alert( 3 + 3)    //will show error because we are using node and it is not supported
 
