@@ -25,3 +25,10 @@ function returnsecondvalue(getarray){
     return getarray[1]
 }
 console.log(returnsecondvalue(newarray));
+
+
+
+
+//you cannot execute the function before you declare it and store it in a variable
+
+//but you can execute a function before its declaration when it is not stored inside the variable
